@@ -8,9 +8,9 @@ inspired by [teenytiny compiler](https://web.eecs.utk.edu/~azh/blog/teenytinycom
 
 ### todo
 
-[] extend the language syntax (for loops, if else, try except)
-[] data types (int, float, boolean)
-[] data structures (arrays, lists, dicts)
-[] OOP
-[] compiler optimizations etc.
+- [] extend the language syntax (for loops, if else, try except)
+- [] data types (int, float, boolean)
+- [] data structures (arrays, lists, dicts)
+- [] OOP
+- [] compiler optimizations etc.
 
