@@ -2,15 +2,16 @@
 
 ---
 
-## BASIC to C
+## BASIC to C to assembly
 
 inspired by [teenytiny compiler](https://web.eecs.utk.edu/~azh/blog/teenytinycompiler3.html)
 
 ### todo
 
+- [ ] emitter to C
+- [ ] C to assembly 
 - [ ] extend the language syntax (for loops, if else, try except)
-- [ ] data types (int, float, boolean)
-- [ ] data structures (arrays, lists, dicts)
-- [ ] OOP
+- [ ] more data types (int, float, boolean)
+- [ ] more data structures (arrays, lists, dicts)
 - [ ] compiler optimizations etc.
 
